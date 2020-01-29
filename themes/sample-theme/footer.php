@@ -12,7 +12,9 @@
 ?>
 
 	</div><!-- #content -->
+
 	<p>this is a bug fix</p>
+
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'sample-theme' ) ); ?>">
